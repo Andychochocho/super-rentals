@@ -25,5 +25,9 @@
      "title": "Taco Day",
      "details": "Come hungry, next Friday is Taco Day!",
      "date": "April 08, 2016"
-    }]
+   },{
+     "title": "Happy Hour",
+     "details": "We will be having a happy hour party next Friday",
+     "date": "April 08, 2016"
+   }]
 }
