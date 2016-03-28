@@ -3,7 +3,7 @@
     "city": "San Francisco",
     "type": "Estate",
     "bedrooms": 15,
-    "image": "./ember.png"
+    "image": "http://www.cookthatbook.com/wp-content/uploads/2011/06/MichaelSmith2.jpg"
   }, {
     "owner": "Mike TV",
     "city": "Seattle",
